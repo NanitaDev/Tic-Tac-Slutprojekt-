@@ -47,7 +47,7 @@ function placeMark(cell) {
 }
 
 function restartGame() {
-    location.reload
+    location.reload()
 }
 
 function playerIsTheWinner(symbol) {
